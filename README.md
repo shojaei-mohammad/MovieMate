@@ -1,6 +1,6 @@
-# SubSync
+# MovieMate
 
-SubSync is a user-friendly application that automatically renames subtitle files to match their corresponding movie files. It simplifies the process of organizing your media library by ensuring that subtitle filenames align with movie filenames.
+MovieMate is a user-friendly application that automatically renames subtitle files to match their corresponding movie files. It simplifies the process of organizing your media library by ensuring that subtitle filenames align with movie filenames.
 
 ## Features
 
@@ -33,7 +33,7 @@ SubSync is a user-friendly application that automatically renames subtitle files
 
 1. Run the script:
    ```
-   python subsync.py
+   python moviemate.py
    ```
 2. Click the "Select Directory" button and choose the folder containing your movie and subtitle files.
 3. The application will automatically rename the subtitle files to match the movie files.
